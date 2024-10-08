@@ -7,4 +7,5 @@ _Entendendo o que é **git**, aprendendo sobre **repositórios**, trabalhando co
 
 ### Rede social:
 [Instagram](https://instagram.com/sujeitoprogramador)
+
 [Youtube](https://youtube.com/c/sujeitoprogramador)
